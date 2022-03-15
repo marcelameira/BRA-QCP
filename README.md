@@ -16,7 +16,8 @@ pip install libpysal
 http://www2.cemaden.gov.br/mapainterativo/.
 
 ## Citation
-doi
+[![DOI](https://zenodo.org/badge/470288611.svg)](https://zenodo.org/badge/latestdoi/470288611)
+
 ## Contact
 * Marcela A Meira <marcelameira.ufcg@gmail.com>
 * Cristiano N Almeida <almeida74br@yahoo.com.br>
