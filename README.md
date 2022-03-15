@@ -22,4 +22,4 @@ doi
 * Cristiano N Almeida <almeida74br@yahoo.com.br>
 * Emerson S Freitas <emerson.sfreitas@hotmail.com>
 ## Licensing
-This project is licensed check [LICENSE](LICENSE.md) for more details.
+This project is licensed check [LICENSE](LICENSE) for more details.
