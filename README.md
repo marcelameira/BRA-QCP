@@ -16,7 +16,7 @@ pip install libpysal
 http://www2.cemaden.gov.br/mapainterativo/.
 
 ## Citation
-Meira, Marcela A.; Almeida, Cristiano N.; Freitas, Emerson S. (2022, Mar 15). Brazilian Rainfall Automatic Quality Control Procedure - Jupyter Notebook. Zenodo. http://doi.org/10.5281/zenodo.6360554
+Meira, Marcela A.; Freitas, Emerson S;  Almeida, Cristiano N. (2022, Mar 15). Brazilian Rainfall Automatic Quality Control Procedure - Jupyter Notebook. Zenodo. http://doi.org/10.5281/zenodo.6360554
 [![DOI](https://zenodo.org/badge/470288611.svg)](https://zenodo.org/badge/latestdoi/470288611)
 
 ## Contact
