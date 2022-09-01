@@ -25,3 +25,7 @@ Meira, Marcela A.; Freitas, Emerson S;  Almeida, Cristiano N. (2022, Mar 15). Br
 * Emerson S Freitas <emerson.sfreitas@hotmail.com>
 ## Licensing
 This project is licensed check [LICENSE](LICENSE) for more details.
+
+## Reference for this project's published paper
+Marcela A. Meira, Emerson S. Freitas, Victor Hugo R. Coelho, Javier Tomasella, Hayley J. Fowler, Geraldo M. Ramos Filho, Abner L. Silva, Cristiano das N. Almeida,
+Quality control procedures for sub-hourly rainfall data: An investigation in different spatio-temporal scales in Brazil, Journal of Hydrology, Volume 613, Part A, 2022, 128358, ISSN 0022-1694, https://doi.org/10.1016/j.jhydrol.2022.128358.
